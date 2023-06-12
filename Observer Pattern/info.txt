@@ -1,0 +1,3 @@
+-> when many objects need to receive and update when another changes
+-> loose coupling 
+-> may send unneeded updates
